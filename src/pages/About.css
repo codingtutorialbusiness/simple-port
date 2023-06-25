@@ -1,0 +1,16 @@
+.about-area {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.about-area h2 {
+  font-size: 40px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.about-area p {
+  font-size: 16px;
+  color: #fff;
+  line-height: 2;
+}

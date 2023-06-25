@@ -1,0 +1,17 @@
+.portfolio-area {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.portfolio-area > h2 {
+  font-size: 40px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.portfolio-list {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+}
